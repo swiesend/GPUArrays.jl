@@ -13,7 +13,7 @@
 [Benchmarks](https://github.com/JuliaGPU/GPUBenchmarks.jl/blob/master/results/results.md)
 
 This package is the counterpart of Julia's `Base.AbstractArray` interface, but
-for GPU arary types. Currently, you either need to install
+for GPU array types. Currently, you either need to install
 [CLArrays](https://github.com/JuliaGPU/CLArrays.jl) or
 [CuArrays](https://github.com/JuliaGPU/CuArrays.jl) for a concrete
 implementation.
